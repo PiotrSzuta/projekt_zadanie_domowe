@@ -1,0 +1,20 @@
+1. American Samoa
+2. Bonaire, Sint Eustatius and Saba
+3. British Indian Ocean Territory
+4. United States Minor Outlying Islands
+5. Virgin Islands (British)
+6. Virgin Islands (U.S.)
+7. Cambodia
+8. Ecuador
+9. El Salvador
+10. Guam
+11. Marshall Islands
+12. Micronesia (Federated States of)
+13. Northern Mariana Islands
+14. Palau
+15. Panama
+16. Puerto Rico
+17. Timor-Leste
+18. Turks and Caicos Islands
+19. United States of America
+20. Zimbabwe
